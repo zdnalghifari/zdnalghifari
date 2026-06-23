@@ -1,12 +1,9 @@
-<h1 align="center">Hi, I'm Zaidan Al-ghifari Fahlevi 👋</h1>
+<h1 align="center">Hi, I'm Zai👋</h1>
 
 <p align="center">
-  <b>GIS Specialist · Spatial Data Analyst · Web Developer</b>
+  <b>GIS Enthusiast</b>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2EA44F&center=true&vCenter=true&width=500&lines=GIS+%26+Spatial+Data+Enthusiast;Web+GIS+Developer;Spatial+Analysis+with+Python" alt="Typing SVG" />
-</p>
 
 ---
 
